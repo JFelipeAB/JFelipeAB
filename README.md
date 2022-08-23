@@ -8,12 +8,12 @@
 <img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"
 </a>
  
-<!--<a href="https://www.facebook.com/sean.taron.9" target="_blank">
-<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;"
+<!--<a href="" target="_blank">
+<img align="center" alt="Joao-Facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;"
 </a>  
 
-<a href="https://www.instagram.com/sean.taron.9/" target="_blank">
-<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"
+<a href="" target="_blank">
+<img align="center" alt="Joao-Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"
 </a> -->
  
 ## languages and skills I work on currently developing:
@@ -33,5 +33,5 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  
  ## Contribution
-   ![Snake animation](https://github.com/vitteixe/vitteixe/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/JFelipeAB/JFelipeAB/blob/main/github-contribution-grid-snake.svg)
  
