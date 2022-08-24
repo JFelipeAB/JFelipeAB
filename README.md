@@ -2,7 +2,7 @@
 
 <H4>I am a FullStack developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success :computer:.</h4>
 
-[**Portfólio**](https://jfelipeab.github.io/Curriculo/)
+[**- Portfólio**](https://jfelipeab.github.io/Curriculo/)
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/joaofelipeaborges/" target="_blank">
@@ -18,20 +18,20 @@
 </a> -->
  
 ## languages and skills I work on currently developing:
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="50" height="40" style="max-width: 100%;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="35" style="max-width: 100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="40" style="max-width: 100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" style="max-width: 100%;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="50" height="40" style="max-width: 100%;" title="C#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="35" style="max-width: 100%;" title="JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" style="max-width: 100%;" title="Html">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" style="max-width: 100%;" title="Css"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="40" style="max-width: 100%;" title="NodeJs">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="40" style="max-width: 100%;" title="Java"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" style="max-width: 100%;" title="MongoDB">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="40" style="max-width: 100%;" title="SQLServer">
  
  ## Interested in:
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" style="max-width: 100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="40" style="max-width: 100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="35" style="max-width: 100%;"></img>
- </img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" style="max-width: 100%;" title="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="40" style="max-width: 100%;" title="ReactJs">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="45" style="max-width: 100%;" title="AngularJs">
+ 
  
  ## Contribution
    ![Snake animation](https://github.com/JFelipeAB/JFelipeAB/blob/main/github-contribution-grid-snake.svg)
